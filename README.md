@@ -1,7 +1,14 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Lawrence Tsui</h1>
-<h3 align="center">A passionate frontend developer from Sydney, Australia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://bestanimations.com/uploads/gifs/1404153328earth-spinning-rotating-animation-15.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜 I am Lawrence/&gt; !
+  <a target="_blank">
+    <h3 align="center">A passionate frontend developer from Sydney, Australia</h3>
+    <img src="https://i.pinimg.com/originals/cb/22/60/cb22603604e36d1caab7cc4e729506c9.gif" width="40px" />
+  </a>
+</h1>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawrencespractice&label=Profile%20views&color=0e75b6&style=flat" alt="lawrencespractice" /> </p>
