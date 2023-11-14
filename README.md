@@ -2,19 +2,21 @@
   <a target="_blank">
     <img src="https://bestanimations.com/uploads/gifs/1404153328earth-spinning-rotating-animation-15.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜 I am Lawrence/&gt; !
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
   <a target="_blank">
-    <h3 align="center">A passionate frontend developer from Sydney, Australia</h3>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 </a>   </a>
 </h1>
 
+<h3>  I am Lawrence A passionate frontend developer from Sydney, Australia
+</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lawrencespractice&label=Profile%20views&color=0e75b6&style=flat" alt="lawrencespractice" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawrencespractice" alt="lawrencespractice" /></a> </p>
+<br/>
+<br/>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
+</a> 
 
 - 🔭 I’m currently working on [Mindspace - a website to help your relax and unpack emotions](https://symphonious-kitsune-273988.netlify.app)
 
@@ -49,3 +51,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawrencespractice&show_icons=true&locale=en" alt="lawrencespractice" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawrencespractice&" alt="lawrencespractice" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lawrencespractice&label=Profile%20views&color=0e75b6&style=flat" alt="lawrencespractice" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawrencespractice" alt="lawrencespractice" /></a> </p>
