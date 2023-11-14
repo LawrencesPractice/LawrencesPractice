@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **AI chatbot**
 
-- 📝 I regularly write articles on [react-explained.com](react-explained.com)
+- 📝 I regularly write articles on [https://dev.to/lawrencespractice](https://dev.to/lawrencespractice)
 
 - 💬 Ask me about **React, Vue, UI Design**
 
