@@ -5,8 +5,9 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜 I am Lawrence/&gt; !
   <a target="_blank">
     <h3 align="center">A passionate frontend developer from Sydney, Australia</h3>
-    <img src="https://i.pinimg.com/originals/cb/22/60/cb22603604e36d1caab7cc4e729506c9.gif" width="40px" />
-  </a>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
+</a>   </a>
 </h1>
 
 
