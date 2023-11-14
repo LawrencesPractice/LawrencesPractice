@@ -9,7 +9,7 @@
 </a>   </a>
 </h1>
 
-<h3>  I am Lawrence A passionate frontend developer from Sydney, Australia
+<h3>  I am Lawrence, a passionate frontend developer from Sydney, Australia
 </h3>
 
 <br/>
