@@ -2,7 +2,7 @@
   <a target="_blank">
     <img src="https://bestanimations.com/uploads/gifs/1404153328earth-spinning-rotating-animation-15.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  𝐇𝐞𝐥𝐥𝐨, &lt;world/&gt; !
   <a target="_blank">
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
