@@ -5,7 +5,6 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;world/&gt; !
   <a target="_blank">
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 </a>   </a>
 </h1>
 
