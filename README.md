@@ -37,9 +37,15 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/lawrencespractice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lawrencespractice" height="30" width="40" /></a>
+<a href="https://dev.to/lawrencespractice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lawrencespractice" height="30" width="40" /></a><br/>
+
+- The Front-End Developer's Journey: The non technical side (https://dev.to/lawrencespractice/the-front-end-developers-journey-the-non-technical-side-d79) <br/>
+
+- Building Accessible Web Applications with React: A Real-Life Approach (Part 1) (https://dev.to/lawrencespractice/building-accessible-web-applications-with-react-a-real-life-approach-part-1-42jf) <br/>
+
+- Building Accessible Web Applications with React: A Real-Life Approach (Part 2) ([https://dev.to/lawrencespractice/building-accessible-web-applications-with-react-a-real-life-approach-part-1-42jf](https://dev.to/lawrencespractice/building-accessible-web-applications-with-react-a-real-life-approach-part-2-3o29))
+<br/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
