@@ -17,7 +17,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 </a> 
 
-- 🔭 I’m currently working on [My Portfolio website in angular](https://capable-halva-3388e2.netlify.app/)
+- 🔭 I’m currently working on [Mindful Moment - find your inner peace](https://symphonious-kitsune-273988.netlify.app/)
 - 🌱 I’m currently learning **Latest front end trend and backend tech**
 
 - 👯 I’m looking to collaborate on **AI chatbot**
